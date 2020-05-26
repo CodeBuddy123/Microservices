@@ -1,0 +1,11 @@
+Numbering went wrong for first ten apps. ordering 
+1. Creating Eureka Server
+2. Registering a Service in Eureka Server
+3. Discovering a Service with Eureka Server
+4. Creating Config Server 
+5. Using Config Server to get Config details for a Microservice
+6. Revert "Registering a Service with multiple instances"
+7. Using Ribbon for Client Side Load Balancing
+8. Setting up Zuul Gateway Proxy
+9. Routing Request through Zuul Gateway Server-welcome-service
+10.Routing Request through Zuul Gateway Server-goodbye-service
